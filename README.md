@@ -1,9 +1,9 @@
- Receptsida –  Smakrika Cevapcici
+WCAG-optimerad version av receptsidan
 
 Responsiv receptsida byggd med HTML & CSS. Designen är baserad på Figma-layouten som vi fått i uppgift att efterlikna och innehåller rubriker, ingredienser, instruktioner och serveringsbilder.
 
 🔗 **Se live här:**  
-👉 https://emilsrecept.netlify.app/
+👉 https://emilsreceptv2.netlify.app/
 
  ✨ Funktioner
 - Responsiv design för desktop och mobil
