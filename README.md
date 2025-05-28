@@ -1,9 +1,9 @@
-**WCAG-optimerad version av receptsidan**
+**Receptsidan med mer semantisk HTML**
 
 🔗 **Se live här:**  
 👉 https://emilsreceptv2.netlify.app/
 
- ✨ Funktioner
+ **Funktioner**
 - Responsiv design för desktop och mobil
 - Hero-bild och intro-ruta
 - Lista med ingredienser och instruktioner
