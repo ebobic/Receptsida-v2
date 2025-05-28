@@ -1,6 +1,4 @@
-WCAG-optimerad version av receptsidan
-
-Responsiv receptsida byggd med HTML & CSS. Designen är baserad på Figma-layouten som vi fått i uppgift att efterlikna och innehåller rubriker, ingredienser, instruktioner och serveringsbilder.
+**WCAG-optimerad version av receptsidan**
 
 🔗 **Se live här:**  
 👉 https://emilsreceptv2.netlify.app/
